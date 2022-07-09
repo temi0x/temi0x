@@ -8,7 +8,7 @@ Here are some interesting things about me:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TheNuelgeek/count.svg" />
+  <img src="https://profile-counter.glitch.me/Temiloluwa-ade/count.svg" />
 </p>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=temiloluwa-ade&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
