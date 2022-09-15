@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Temiloluwa Adelowo, a young Frontend Developer from Nigeria.
+I am Temiloluwa Adelowo, a Frontend Developer and Product Designer.
 
 Here are some interesting things about me:
 
