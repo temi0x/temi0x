@@ -11,18 +11,18 @@ Here are some interesting things about me:
 
 <!--<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Temiloluwa-ade/count.svg" />
+  <img src="https://profile-counter.glitch.me/temi0x/count.svg" />
 </p> -->
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=temiloluwa-ade&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=temiloluwa-ade&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=temiloluwa-ade&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=temi0x&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=temi0x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=temi0x&theme=darcula&hide_border=true&background=FFFFFF00">
 </p> -->
 
 <hr>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=temiloluwa-ade&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=temi0x&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <hr>
