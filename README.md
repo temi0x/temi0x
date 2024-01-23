@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am Temiloluwa Adelowo, a Frontend Developer and Product Designer.
+I am Temiloluwa Adelowo, a Software Engineer.
 
 Here are some interesting things about me:
 
 - I am tickled by the idea of Blockchain technologies and Finance
 - I hope to build a valuable startup, soon
-- I am intrigued by Robotics and its intersection with AI
+- I am interested in Robotics and its intersection with AI
 - 📫 How to reach me: [Twitter](https://twitter.com/temi0x), [Instagram](https://instagram.com/temi0x) and mail: [temiadev@gmail.com](mailto:temiadev@gmail.com)
 
 <!--<p align="center"> 
