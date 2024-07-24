@@ -9,8 +9,3 @@ I am Temiloluwa Adelowo, a Software Engineer.
 - 📫 How to reach me: [temiadev@gmail.com](mailto:temiadev@gmail.com)
 - Know about my experiences: [resume](https://docs.google.com/document/d/1Vx0B3Ao7SkZQ5MIfZ7A-cFDNgjaL7q6_nDjQBTmjgiM/edit?usp=sharing)
 - Portfolio website: [temiloluwa.me](https://temiloluwa.me)
-
-<p align="center"> 
-  Profile views<br>
-  <img src="https://profile-counter.glitch.me/temi0x/count.svg" />
-</p>
