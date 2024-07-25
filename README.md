@@ -4,8 +4,8 @@ I am Temiloluwa Adelowo, a Software Engineer.
 
 - Crypto + Finance geek
 - Currently building with: Go, and Typescript
-- Experimenting with Blockchain protocols & FHE
+- Experimenting with: Blockchain protocols & FHE
 - Interested in: Robotics
-- 📫 How to reach me: [temiadev@gmail.com](mailto:temiadev@gmail.com)
+- How to reach me: [hello@temiloluwa.com](mailto:hello@temiloluwa.com)
 - Know about my experiences: [resume](https://docs.google.com/document/d/1Vx0B3Ao7SkZQ5MIfZ7A-cFDNgjaL7q6_nDjQBTmjgiM/edit?usp=sharing)
-- Portfolio website: [temiloluwa.me](https://temiloluwa.me)
+- Portfolio website: [temiloluwa.com](https://temiloluwa.com)
